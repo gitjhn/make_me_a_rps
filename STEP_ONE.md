@@ -4,8 +4,10 @@ Assuming your language has a Random or PseudoRandom number generator we are goin
 
 ### Wait What? (How do I start?)
 1. Reserch with your search engine of choice some things like this
-    <Your Language> [Pseudo]random [example]
-    If you end up on `StackOverflow` read the accepted answer and the comments below. There is a wealth of information hidden down there
+
+       <Your Language> [Pseudo]random [example]
+       If you end up on `StackOverflow` read the accepted answer and the comments below. There is a wealth of information hidden down there
+
 2. Once you have a sample in hand and some well earned knowledge time to give it a try.
 3. Attempt to replicate this Pseudo Logic in you language of choice
 
@@ -21,7 +23,7 @@ Assuming your language has a Random or PseudoRandom number generator we are goin
     ```
 
 4. With success under your belt let make the program do it a few more times with a loop following this Pseudo Logic
-    
+
     ```
     loop 3 times
       random = RandomNumberGenerator.random
@@ -38,9 +40,9 @@ Assuming your language has a Random or PseudoRandom number generator we are goin
     This is a random number 1.023
     This is a random number 0.933
     ```
-    
+
 5. Didn't that feel great! Now one last thing. Lets extract our loop body into a function
-    
+
     ```
     function makeRandom
       random = RandomNumberGenerator.random
