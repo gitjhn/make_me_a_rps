@@ -4,9 +4,9 @@ Assuming your language has a Random or PseudoRandom number generator we are goin
 
 ### Wait What? (How do I start?)
 1. Reserch with your search engine of choice some things like this
+    `<Your Language> [Pseudo]random [example]`
 
-       <Your Language> [Pseudo]random [example]
-       If you end up on `StackOverflow` read the accepted answer and the comments below. There is a wealth of information hidden down there
+    If you end up on `StackOverflow` read the accepted answer and the comments below. There is a wealth of information hidden down there
 
 2. Once you have a sample in hand and some well earned knowledge time to give it a try.
 3. Attempt to replicate this Pseudo Logic in you language of choice
